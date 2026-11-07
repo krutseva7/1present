@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+    background-image: url('https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-8xie-p-kartinki-vzriv-konfetti-na-prozrachnom-fon-5.png');
+}
+.link {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-top: 250px; 
+    color: rgb(201, 34, 12);
+    font-size: 50px;
+}
